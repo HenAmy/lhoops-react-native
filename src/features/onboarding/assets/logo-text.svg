@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="29" viewBox="0 0 109 29">
+  <g id="Logo_Icon" data-name="Logo Icon" transform="translate(-83 -982)">
+    <g id="Group_633" data-name="Group 633" transform="translate(-66.549 752.451)">
+      <g id="Ellipse_80" data-name="Ellipse 80" transform="translate(149.549 229.549)" fill="#141517" stroke="#f4b41a" stroke-width="1">
+        <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+        <circle cx="14.5" cy="14.5" r="14" fill="none"/>
+      </g>
+      <g id="Ellipse_78" data-name="Ellipse 78" transform="translate(154.549 234.549)" fill="#141517" stroke="#f4b41a" stroke-width="1">
+        <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+        <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+      </g>
+      <g id="Ellipse_79" data-name="Ellipse 79" transform="translate(159.549 239.549)" fill="#141517" stroke="#f4b41a" stroke-width="1">
+        <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+        <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+      </g>
+    </g>
+    <text id="lhoops" transform="translate(120 1005)" fill="#141517" font-size="24" font-family="Fredoka-SemiBold, Fredoka" font-weight="600"><tspan x="0" y="0">lhoops</tspan></text>
+  </g>
+</svg>
